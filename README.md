@@ -3,8 +3,16 @@ A native Nintendo 3DS homebrew client for managing Proxmox Virtual Environment s
 
 STATUS: IN DEVELOPMENT
 
+Youtube : https://www.youtube.com/@NineToFiveNines
+
  Documentation :
-   DEVELOPMENT_STATUS01.md
+   Note:
+    - DEVELOPMENT_STATUS01.md
+
+   Vidéo:
+    - PROJECT PVE3DS-Client & Initial Development: https://youtu.be/ArMXGtvdSc4?si=mbu-2GJS_-JYhvw-
+
+
 
 More information, screenshots and downloads coming soon.
 Stay tuned! 
